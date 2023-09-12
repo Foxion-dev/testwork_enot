@@ -1,0 +1,12 @@
+body{
+    padding: 100px 15px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.form-input{
+    margin-bottom: 15px;
+}
+.confirm-block__input.hide{
+    /*display: none;*/
+}
